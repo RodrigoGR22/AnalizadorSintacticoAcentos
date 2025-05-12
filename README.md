@@ -1,4 +1,4 @@
-# Proyecto Integrador - Analizador Sintáctico (Corrector de Acentos)
+# Producto Integrador - Analizador Sintáctico (Corrector de Acentos)
 
 ## Descripción
 
